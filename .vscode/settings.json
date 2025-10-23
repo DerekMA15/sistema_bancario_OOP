@@ -1,0 +1,6 @@
+{
+    "editor.fontSize": 18,
+    "window.commandCenter": false,
+    "terminal.integrated.defaultProfile.linux": "bash"
+
+}

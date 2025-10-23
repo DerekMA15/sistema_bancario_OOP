@@ -1,0 +1,25 @@
+{
+  "name": "sistema_bancario_oop",
+  "type": "module",
+  "description": "💻 Projeto: Sistema Bancário Orientado a Objetos com Usuário PF e PJ 📘 Descrição Geral",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx src/index.ts",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DerekMA15/sistema_bancario_OOP.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DerekMA15/sistema_bancario_OOP/issues"
+  },
+  "homepage": "https://github.com/DerekMA15/sistema_bancario_OOP#readme",
+  
+  "devDependencies": {
+    "@types/node": "^24.9.1",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
+}
