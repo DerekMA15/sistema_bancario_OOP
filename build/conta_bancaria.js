@@ -14,5 +14,16 @@ class conta_bancaria {
         this.saldo = saldo; // por enquanto eu vou usar o saldo como número, mas para manter a maior precisão é interessante fazer a conversão do Typeof de string para Number
         this.nome = nome;
     }
+    //MÉTODOS 
+    //getters e setters
+    getSaldo() {
+        return this.saldo;
+    }
+    getNome() {
+        return this.nome;
+    }
+    setSaldo(new_saldo) {
+        this.saldo = new_saldo;
+    }
 }
 export {};
